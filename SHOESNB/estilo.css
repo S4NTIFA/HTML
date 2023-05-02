@@ -1,0 +1,19 @@
+.body{
+    background: antiquewhite;
+    margin: 0;
+}
+
+.form{
+    width: 340px;
+    height: 440px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 40px -10px #d63209;
+    margin: calc(50vh - 220px) auto;
+    padding:20px 30px;
+    max-width: calc(100vw -40px);
+    box-sizing: border-box;
+    font-family: "Monserrat", sans-serif;
+    position: relative;
+
+}
